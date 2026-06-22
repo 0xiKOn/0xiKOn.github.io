@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://un0n.github.io",
+    url: "https://un0nnn.github.io",
     title: "Un0n",
     description: "Security research, CTF writeups and notes.",
     author: "Un0n",
