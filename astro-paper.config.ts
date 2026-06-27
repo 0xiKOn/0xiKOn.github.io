@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://un0nnn.github.io",
+    url: "https://ikonik4-l.github.io",
     title: "Un0n",
     description: "Security research, CTF writeups and notes.",
     author: "Un0n",
-    profile: "https://github.com/Un0nnn",
+    profile: "https://github.com/iKOnik4-l",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "Asia/Karachi",
@@ -29,7 +29,7 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "github", url: "https://github.com/Un0nnn" },
+    { name: "github", url: "https://github.com/iKOnik4-l" },
     { name: "mail",   url: "mailto:alig91666@gmail.com" },
   ],
   shareLinks: [
