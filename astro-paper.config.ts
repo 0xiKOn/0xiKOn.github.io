@@ -29,8 +29,9 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "github", url: "https://github.com/iKOnik4-l" },
-    { name: "mail",   url: "mailto:alig91666@gmail.com" },
+    { name: "github",   url: "https://github.com/iKOnik4-l" },
+    { name: "linkedin", url: "https://www.linkedin.com/in/ali-aizid-gill" },
+    { name: "mail",     url: "mailto:alig91666@gmail.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
