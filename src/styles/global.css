@@ -6,6 +6,11 @@
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 @layer base {
+  /* Bump the root font size 16px -> 18px ("+2"). Every rem-based size in the
+     theme scales from here, so all text grows proportionally. */
+  html {
+    font-size: 18px;
+  }
   * {
     @apply border-border outline-accent/75;
     scrollbar-width: auto;
