@@ -17,19 +17,19 @@ The longer-form reference lives in my [GitBook knowledge base](https://0xikon.gi
 
 ## Certifications
 
-- Certified Penetration Testing Specialist (CPTS) <a class="arrow-link" href="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist" target="_blank" rel="noopener noreferrer">→</a>
-- Security+ <a class="arrow-link" href="https://www.comptia.org/certifications/security" target="_blank" rel="noopener noreferrer">→</a>
-- Linux+ <a class="arrow-link" href="https://www.comptia.org/certifications/linux" target="_blank" rel="noopener noreferrer">→</a>
-- Junior Penetration Tester (eJPT) <a class="arrow-link" href="https://security.ine.com/certifications/ejpt-certification/" target="_blank" rel="noopener noreferrer">→</a>
-- Practical OSINT Research Professional (PORP) <a class="arrow-link" href="https://certifications.tcm-sec.com/porp/" target="_blank" rel="noopener noreferrer">→</a>
+- **2025** · Certified Penetration Testing Specialist (CPTS) <a class="arrow-link" href="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist" target="_blank" rel="noopener noreferrer">→</a>
+- **2024** · Security+ <a class="arrow-link" href="https://www.comptia.org/certifications/security" target="_blank" rel="noopener noreferrer">→</a>
+- **2024** · Linux+ <a class="arrow-link" href="https://www.comptia.org/certifications/linux" target="_blank" rel="noopener noreferrer">→</a>
+- **2024** · Practical OSINT Research Professional (PORP) <a class="arrow-link" href="https://certifications.tcm-sec.com/porp/" target="_blank" rel="noopener noreferrer">→</a>
+- **2023** · Junior Penetration Tester (eJPT) <a class="arrow-link" href="https://security.ine.com/certifications/ejpt-certification/" target="_blank" rel="noopener noreferrer">→</a>
 
 ## Training
 
-- Machine Learning Specialization — Stanford / DeepLearning.AI <a class="arrow-link" href="https://www.coursera.org/specializations/machine-learning-introduction" target="_blank" rel="noopener noreferrer">→</a>
-- Advanced Cybersecurity Program — Stanford Online <a class="arrow-link" href="https://online.stanford.edu/programs/advanced-cybersecurity-program" target="_blank" rel="noopener noreferrer">→</a>
-- Google Cybersecurity Specialization <a class="arrow-link" href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank" rel="noopener noreferrer">→</a>
-- Cybersecurity for Critical Urban Infrastructure — MIT <a class="arrow-link" href="https://mitxonline.mit.edu/courses/course-v1:MITxT+11.S198x" target="_blank" rel="noopener noreferrer">→</a>
-- CS50x — Harvard <a class="arrow-link" href="https://cs50.harvard.edu/x/" target="_blank" rel="noopener noreferrer">→</a>
+- **2026** · Machine Learning Specialization — Stanford / DeepLearning.AI <a class="arrow-link" href="https://www.coursera.org/specializations/machine-learning-introduction" target="_blank" rel="noopener noreferrer">→</a>
+- **2023** · Advanced Cybersecurity Program — Stanford Online <a class="arrow-link" href="https://online.stanford.edu/programs/advanced-cybersecurity-program" target="_blank" rel="noopener noreferrer">→</a>
+- **2023** · Google Cybersecurity Specialization <a class="arrow-link" href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank" rel="noopener noreferrer">→</a>
+- **2022** · Cybersecurity for Critical Urban Infrastructure — MIT <a class="arrow-link" href="https://mitxonline.mit.edu/courses/course-v1:MITxT+11.S198x" target="_blank" rel="noopener noreferrer">→</a>
+- **2022** · CS50x — Harvard <a class="arrow-link" href="https://cs50.harvard.edu/x/" target="_blank" rel="noopener noreferrer">→</a>
 
 ## Things I work with
 
