@@ -4,7 +4,8 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://0xikon.github.io",
     title: "0xiKOn",
-    description: "Security research, CTF writeups and notes.",
+    description:
+      "Ali Gill — security and AI/ML, with interests in the history and philosophy of science and technology and in mathematics. HackTheBox writeups and notes.",
     author: "0xiKOn",
     profile: "https://github.com/0xiKOn",
     ogImage: "default-og.jpg",

@@ -1,17 +1,19 @@
 ---
 title: "About"
-description: "Ali Gill — student at the University of Toronto, learning offensive security and writing down what sticks."
+description: "Ali Gill — University of Toronto student working in offensive security and AI/ML."
 ---
 
-Hi, I'm **Ali Gill** — a student at the **University of Toronto**, based in Toronto, Canada.
+Hi, I'm **Ali Gill** — a student at the **University of Toronto**, based in Toronto, Canada, working toward a BSc (Hons) in **History and Philosophy of Science and Technology** and **Mathematics**, with a **Computer Science** minor.
 
-I'm working toward a BSc (Hons) in **History and Philosophy of Science and Technology** and **Mathematics** (double major), with a **Computer Science** minor, finishing in 2027. The combination isn't an accident: mathematics gives me the rigour, HPS gives me the context for how we ended up trusting the systems we rely on, and computer science is where both get put to work.
+I work on **security**, and increasingly on where it meets **machine learning**. The degree is a
+deliberate pairing rather than a compromise: I'm equally interested in the **history and philosophy
+of science and technology** and in **mathematics**.
 
-Right now I'm focused on **offensive security**, and increasingly on where security meets **machine learning** — AI security is the direction I'm heading.
+My [resume](/resume.pdf) has the detail — experience, projects and skills.
 
 ## What's on this site
 
-This is where I keep my **HackTheBox machine writeups** and notes from whatever I'm currently studying — methodology from enumeration through privilege escalation, written so that I (and hopefully you) can follow it again later.
+**HackTheBox machine writeups** and notes from whatever I'm studying — methodology from enumeration through privilege escalation, written so that I (and hopefully you) can follow it again later.
 
 The longer-form reference lives in my [GitBook knowledge base](https://0xikon.gitbook.io/home): 60+ interlinked pages covering web, wireless, Active Directory, and Linux exploitation.
 
@@ -95,18 +97,11 @@ The longer-form reference lives in my [GitBook knowledge base](https://0xikon.gi
   </a>
 </div>
 
-## Things I work with
-
-**Languages** — Python, Java, SQL, Bash, JavaScript (HTML/CSS)
-
-**Security** — Burp Suite, Nmap, Metasploit, Wireshark, BloodHound, Ligolo-ng, Hashcat, ffuf/gobuster, sqlmap, Active Directory exploitation, report writing
-
-**ML & data** — NumPy, pandas, scikit-learn, Jupyter, TensorFlow, PyTorch
-
-**Infrastructure** — Linux (Arch/Debian), Docker, Git/GitHub, REST APIs, virtualization
-
 ## Elsewhere
 
 - [GitHub](https://github.com/0xiKOn)
+- [Hack The Box](https://app.hackthebox.com/profile/0xikon)
+- [TryHackMe](https://tryhackme.com/p/0xikon)
+- [Medium](https://medium.com/@0xikon)
 - [Notes — GitBook](https://0xikon.gitbook.io/home)
 - [LinkedIn](https://www.linkedin.com/in/ali-aizid-gill)
