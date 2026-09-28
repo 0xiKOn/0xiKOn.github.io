@@ -33,6 +33,11 @@ export default {
     featured: "Featured",
     recentPosts: "Recent Posts",
     allPosts: "All Posts",
+    credentials: "Credentials",
+    credentialsMore: "All credentials and training",
+    writing: "Writing",
+    elsewhere: "Elsewhere",
+    viewResume: "Resume",
   },
   footer: {
     copyright: "Copyright",

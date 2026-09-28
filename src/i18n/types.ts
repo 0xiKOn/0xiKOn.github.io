@@ -31,6 +31,11 @@ export interface UIStrings {
     featured: string;
     recentPosts: string;
     allPosts: string;
+    credentials: string;
+    credentialsMore: string;
+    writing: string;
+    elsewhere: string;
+    viewResume: string;
   };
   footer: {
     copyright: string;

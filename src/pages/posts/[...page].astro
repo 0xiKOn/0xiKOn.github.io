@@ -25,7 +25,9 @@ const t = useTranslations(locale);
 
 // Group this page's posts by publication year, newest year first.
 const postsByYear = Object.entries(
-  getPostsByGroupCondition(page.data, post => post.data.pubDatetime.getFullYear())
+  getPostsByGroupCondition(page.data, post =>
+    post.data.pubDatetime.getFullYear()
+  )
 ).sort(([yearA], [yearB]) => Number(yearB) - Number(yearA));
 ---
 

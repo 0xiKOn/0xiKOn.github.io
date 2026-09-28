@@ -193,6 +193,18 @@ html[data-theme="dark"] .page-backdrop {
   opacity: 0.85;
 }
 
+/* On narrow screens the hero text stacks directly over the busiest part of the
+   wallpaper, so pull the backdrop back far enough to keep the intro legible.
+   Desktop keeps the full-strength treatment, where the text sits clear of it. */
+@media (width < 40rem) {
+  html[data-theme="dark"] .page-backdrop {
+    opacity: 0.4;
+  }
+  .page-backdrop {
+    opacity: 0.1;
+  }
+}
+
 /* The header bar would otherwise paint an opaque block over the wallpaper
    across the content width, leaving a hard seam at the sides. Let the
    backdrop run straight through it on pages that use it. */
