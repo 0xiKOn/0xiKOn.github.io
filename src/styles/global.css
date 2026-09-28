@@ -175,7 +175,7 @@ html[data-theme="dark"] .cert-card__verify {
   height: 80vh;
   min-height: 440px;
   pointer-events: none;
-  background-image: url("/backdrop-geometry.png");
+  background-image: url("/backdrop-orbits.png");
   background-size: cover;
   background-position: center 20%;
   background-repeat: no-repeat;
