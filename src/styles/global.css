@@ -175,11 +175,11 @@ html[data-theme="dark"] .cert-card__verify {
   height: 80vh;
   min-height: 440px;
   pointer-events: none;
-  background-image: url("/wallpaper.jpg");
+  background-image: url("/backdrop-geometry.png");
   background-size: cover;
   background-position: center 20%;
   background-repeat: no-repeat;
-  opacity: 0.16;
+  opacity: 0.3;
   -webkit-mask-image: linear-gradient(
     to bottom,
     #000 0%,
@@ -193,8 +193,8 @@ html[data-theme="dark"] .page-backdrop {
   opacity: 0.85;
 }
 
-/* On narrow screens the hero text stacks directly over the busiest part of the
-   wallpaper, so pull the backdrop back far enough to keep the intro legible.
+/* On narrow screens the hero text stacks directly over the densest part of the
+   plate, so pull the backdrop back far enough to keep the intro legible.
    Desktop keeps the full-strength treatment, where the text sits clear of it. */
 @media (width < 40rem) {
   html[data-theme="dark"] .page-backdrop {
