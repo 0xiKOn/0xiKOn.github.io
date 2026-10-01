@@ -100,8 +100,8 @@ The longer-form reference lives in my [GitBook knowledge base](https://0xikon.gi
 ## Elsewhere
 
 - [GitHub](https://github.com/0xiKOn)
-- [Hack The Box](https://app.hackthebox.com/profile/0xikon)
-- [TryHackMe](https://tryhackme.com/p/0xikon)
+- [Hack The Box](https://app.hackthebox.com/profile/Panzer262)
+- [TryHackMe](https://tryhackme.com/p/Ali.999)
 - [Medium](https://medium.com/@0xikon)
 - [Notes — GitBook](https://0xikon.gitbook.io/home)
 - [LinkedIn](https://www.linkedin.com/in/ali-aizid-gill)
