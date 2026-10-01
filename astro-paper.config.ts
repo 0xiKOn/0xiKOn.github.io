@@ -2,13 +2,13 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://0xikon.github.io",
+    url: "https://exabsurdo.github.io",
     title: "exabsurdo",
     description:
       "Ali Gill — security and AI/ML, with interests in the history and philosophy of science and technology and in mathematics. HackTheBox writeups and notes.",
     tagline: "HackTheBox writeups, security research and notes",
     author: "exabsurdo",
-    profile: "https://github.com/0xiKOn",
+    profile: "https://github.com/exabsurdo",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "Asia/Karachi",
@@ -26,12 +26,12 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/0xiKOn/0xiKOn.github.io/edit/master/",
+      url: "https://github.com/exabsurdo/exabsurdo.github.io/edit/master/",
     },
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/0xiKOn" },
+    { name: "github",   url: "https://github.com/exabsurdo" },
     { name: "linkedin", url: "https://www.linkedin.com/in/ali-aizid-gill" },
     { name: "mail",     url: "mailto:alig91666@gmail.com" },
   ],

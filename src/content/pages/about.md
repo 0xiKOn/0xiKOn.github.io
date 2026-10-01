@@ -99,7 +99,7 @@ The longer-form reference lives in my [GitBook knowledge base](https://0xikon.gi
 
 ## Elsewhere
 
-- [GitHub](https://github.com/0xiKOn)
+- [GitHub](https://github.com/exabsurdo)
 - [Hack The Box](https://app.hackthebox.com/profile/Panzer262)
 - [TryHackMe](https://tryhackme.com/p/Ali.999)
 - [Medium](https://medium.com/@0xikon)
