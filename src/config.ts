@@ -17,6 +17,7 @@ const config: ResolvedAstroPaperConfig = {
     lang: userConfig.site.lang ?? "en",
     timezone: userConfig.site.timezone ?? "UTC",
     dir: userConfig.site.dir ?? "ltr",
+    tagline: userConfig.site.tagline,
     googleVerification:
       userConfig.site.googleVerification || PUBLIC_GOOGLE_SITE_VERIFICATION,
   },

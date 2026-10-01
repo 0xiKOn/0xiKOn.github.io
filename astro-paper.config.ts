@@ -6,6 +6,7 @@ export default defineAstroPaperConfig({
     title: "0xiKOn",
     description:
       "Ali Gill — security and AI/ML, with interests in the history and philosophy of science and technology and in mathematics. HackTheBox writeups and notes.",
+    tagline: "HackTheBox writeups, security research and notes",
     author: "0xiKOn",
     profile: "https://github.com/0xiKOn",
     ogImage: "default-og.jpg",
@@ -25,7 +26,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/satnaing/astro-paper/edit/main/",
+      url: "https://github.com/0xiKOn/0xiKOn.github.io/edit/master/",
     },
     search: "pagefind",
   },

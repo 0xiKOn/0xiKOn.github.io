@@ -24,9 +24,15 @@ const recentPosts = sortedPosts
   .filter(({ data }) => !data.featured)
   .slice(0, postsConfig.perIndex);
 const homePath = getRelativeLocaleUrl(locale, "");
+
+// A bare site name gives Google nothing to show but the username, so the
+// home page title carries the tagline too.
+const homeTitle = config.site.tagline
+  ? `${config.site.title} — ${config.site.tagline}`
+  : config.site.title;
 ---
 
-<Layout>
+<Layout title={homeTitle}>
   <div class="page-backdrop" aria-hidden="true"></div>
   <Header />
   <main

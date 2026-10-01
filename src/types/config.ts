@@ -5,6 +5,11 @@ interface SiteConfig {
   title: string;
   /** Short description used in SEO meta and RSS feed */
   description: string;
+  /**
+   * Short phrase appended to the site title on the home page, so the search
+   * result heading says what the site is instead of just the site name.
+   */
+  tagline?: string;
   /** Default post author name */
   author: string;
   /** Author profile URL (used in structured data) */
@@ -115,7 +120,7 @@ type ResolvedSiteConfig = Required<
     | "ogImage"
   >
 > &
-  Pick<SiteConfig, "profile" | "googleVerification">;
+  Pick<SiteConfig, "profile" | "googleVerification" | "tagline">;
 
 export interface ResolvedAstroPaperConfig {
   site: ResolvedSiteConfig;
