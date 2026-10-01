@@ -15,7 +15,7 @@ My [resume](/resume.pdf) has the detail — experience, projects and skills.
 
 **HackTheBox machine writeups** and notes from whatever I'm studying — methodology from enumeration through privilege escalation, written so that I (and hopefully you) can follow it again later.
 
-The longer-form reference lives in my [GitBook knowledge base](https://0xikon.gitbook.io/home): 60+ interlinked pages covering web, wireless, Active Directory, and Linux exploitation.
+The longer-form reference lives in my [GitBook knowledge base](https://exabsurdo.gitbook.io/home): 60+ interlinked pages covering web, wireless, Active Directory, and Linux exploitation.
 
 ## Certifications
 
@@ -103,5 +103,5 @@ The longer-form reference lives in my [GitBook knowledge base](https://0xikon.gi
 - [Hack The Box](https://app.hackthebox.com/profile/Panzer262)
 - [TryHackMe](https://tryhackme.com/p/Ali.999)
 - [Medium](https://medium.com/@0xikon)
-- [Notes — GitBook](https://0xikon.gitbook.io/home)
+- [Notes — GitBook](https://exabsurdo.gitbook.io/home)
 - [LinkedIn](https://www.linkedin.com/in/ali-aizid-gill)

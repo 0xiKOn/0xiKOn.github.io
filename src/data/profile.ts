@@ -39,5 +39,5 @@ export const elsewhere: ProfileLink[] = [
   },
   { label: "TryHackMe", url: "https://tryhackme.com/p/Ali.999" },
   { label: "Medium", url: "https://medium.com/@0xikon" },
-  { label: "GitBook notes", url: "https://0xikon.gitbook.io/home" },
+  { label: "GitBook notes", url: "https://exabsurdo.gitbook.io/home" },
 ];
